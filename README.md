@@ -2,7 +2,7 @@
 
 <p align="center" dir="auto">Flex Turismos is a project carried out in the Flexbox course at Digital Innovation One</p>
 
-<p align="center" dir="auto">You can test the website<a href="https://yannarp.github.io/Flex-turismos/" rel="nofollow"> Clik here</a></p>
+<p align="center" dir="auto">You can test the website<a href="https://yannarp.github.io/Flex-turismos/" rel="nofollow"> Click here</a></p>
 
 <h2 align="center" dir="auto">
   
