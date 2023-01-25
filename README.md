@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto"> "Flex Turismo"</h1>
+<h1 align="center" dir="auto"> "Flex Turismos"</h1>
 
 <p align="center" dir="auto">Flex Turismo é um projeto realizado no curso de Flexbox da Digital Innovation One.</p>
 
